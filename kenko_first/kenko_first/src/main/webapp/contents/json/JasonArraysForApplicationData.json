@@ -1,0 +1,35 @@
+{
+  "FallBack": [
+    "Invalid",
+    "Array",
+    "Name"
+  ],
+  "LandTypes": [
+    "Wet Land",
+    "Dry Land"
+  ],
+  "LandOwnershipStates": [
+    "Rented",
+    "Owned"
+  ],
+  "LandCultivationStates": [
+    "Not Cultivated",
+    "Cultivated"
+  ],
+  "CropTypes": [
+    "Carrot",
+    "Leeks",
+    "Beans"
+  ],
+  "MeasurementsArea": [
+    "Square Feet",
+    "Square Metres",
+    "Perches",
+    "Acres"
+  ],
+  "MeasurementsTime": [
+    "Days",
+    "Weeks",
+    "Months"
+  ]
+}

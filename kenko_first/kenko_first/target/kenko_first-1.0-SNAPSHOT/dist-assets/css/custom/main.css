@@ -1,0 +1,19 @@
+/*ul.navigation-left li.nav-item:hover{*/
+/*ul.navigation-left li.nav-item div.triangle{*/
+/*color: #6b911b;*/
+/*}*/
+/*}*/
+
+/*.mainlist li:hover {*/
+/*background:#1eae9a;*/
+/*color:white;*/
+/*}*/
+
+.button_in_list {
+    width: 210px !important;
+    font-weight: bold;
+}
+
+.opaque {
+    background-color: rgba(245, 245, 245, 0.5);
+}

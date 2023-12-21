@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="kenko_first:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>kenko_first</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="kenko_first-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="kenko_first:war exploded" />
+    </root>
+  </artifact>
+</component>

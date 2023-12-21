@@ -1,0 +1,121 @@
+{
+  "FallBack": [
+    "Invalid",
+    "Array",
+    "Name"
+  ],
+  "Provinces": [
+    "Western",
+    "Central",
+    "Southern",
+    "Eastern",
+    "Northern",
+    "North Central",
+    "North Western",
+    "Uva"
+  ],
+  "Districts": [
+    {
+      "Western": [
+        "Colombo",
+        "Kaluthara",
+        "Gampaha"
+      ],
+      "Central": [
+        "Kandy",
+        "Matale",
+        "Nuwara-Eliya"
+      ],
+      "Southern": [
+        "Galle",
+        "Hambantota",
+        "Matara"
+      ],
+      "Eastern": [
+        "Ampara",
+        "Batticaloa",
+        "Trincomalee"
+      ],
+      "Northern": [
+        "Jaffna",
+        "Kilinochchi",
+        "Mannar",
+        "Mullativu",
+        "Vavuniya",
+        "Alambil"
+      ],
+      "North Central": [
+        "Anuradhapura",
+        "Polonnaruwa"
+      ],
+      "North Western": [
+        "Kurunagala",
+        "Puttalam"
+      ],
+      "Uva": [
+        "Badulla",
+        "Monaragala"
+      ]
+    }
+  ],
+  "GnDivisions": [
+    {
+      "Kurunagala": [
+        "Hadirawalana Ihala",
+        "Hadirawalana Pahala",
+        "Thalatuwa",
+        "Wellawa",
+        "Dematagolla",
+        "Rikillagamuwa",
+        "Budanapitiya",
+        "Waraddana",
+        "Rangama",
+        "Pahala Waraddana",
+        "Thalwita",
+        "Seruwawa",
+        "Pubbowa",
+        "Kalatuwapelassa",
+        "Seeradunna",
+        "Ginikarawa",
+        "Mahakandegama",
+        "Bamunugedara",
+        "Wehera East",
+        "Wehera West",
+        "Henemulla",
+        "Weherabanda",
+        "Wilgoda",
+        "Waduragala",
+        "Akaragana North",
+        "Akaragana South",
+        "Bamunawala",
+        "Malkaduwawa",
+        "Heraliyawala",
+        "Malkaduwawa South",
+        "Malkaduwawa North",
+        "Alakoladeniya",
+        "Rathgalla",
+        "Wilbawa",
+        "Nailiya",
+        "Pahalathalampitiya",
+        "Aththanapitiya",
+        "Kudumbuwa",
+        "Thorawathura",
+        "Mathawa",
+        "Boyagane",
+        "Madithiyawela",
+        "Kurunegala Nagaraya North",
+        "Gangoda",
+        "Gattuwana",
+        "Kurunegala Nagaraya Isana",
+        "Kurunegala Nagaraya East",
+        "Theliyagonna",
+        "Kurunegala Nagaraya Batahira",
+        "Illuppugedara",
+        "Kurunegala Nagaraya Madyama",
+        "Kadawidiya",
+        "Kurunegala Nagaraya South",
+        "Udawalpota"
+      ]
+    }
+  ]
+}
